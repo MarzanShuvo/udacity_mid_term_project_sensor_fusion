@@ -5,7 +5,7 @@
 | | |
 |:---------------:|:---------------:|
 |<img src="images/lidar1.png" width="400" height ="300"> | <img src="images/lidar2.png" width="400" height="300"> |
-|<img src="images/lidar3.png" width="400" height ="300"> | <img src="images/lidar4" width="400" height="300"> |
+|<img src="images/lidar3.png" width="400" height ="300"> | <img src="images/lidar4.png" width="400" height="300"> |
 |<img src="images/lidar5.png" width="400" height ="300"> | <img src="images/lidar6.png" width="400" height="300"> |
 |<img src="images/lidar7.png" width="400" height ="300"> | <img src="images/lidar8.png" width="400" height="300"> |
 |<img src="images/lidar9.png" width="400" height ="300"> | <img src="images/lidar10.png" width="400" height="300"> |
